@@ -1,0 +1,5 @@
+lines words chars string
+6      15    92
+or
+7
+--lines --words --chars
