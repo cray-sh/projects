@@ -16,7 +16,7 @@ format of file:
 """
 #%% Loadma File
 #load in the input list
-path = "C:/Users/ADP55/Desktop/input_day3.txt"
+path = "C:/Users/ADP55/Desktop/Master Scripts/projects/Advent of Code 2023/input_day3.txt"
 with open(path) as f:
     file_contents = f.readlines()
     content = [line.strip('\n') for line in file_contents]
